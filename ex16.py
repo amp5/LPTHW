@@ -95,6 +95,14 @@ target.write("\n")
 #prints phrase
 
 print "And finally, we close it."
+
+#gives close command to variable 'target'
+#which is the file I created (text.txt)target.close()
+target.close()
+
+#prints phrase
+
+print "And finally, we close it."
 #gives close command to variable 'target'
 #which is the file I created (text.txt)
 
