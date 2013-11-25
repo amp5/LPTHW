@@ -59,5 +59,5 @@ def add(a, b):
 
 money = add(420, 118)
 
-print "I earned %d dollars these past two weeks while I was in NY!" (money) 
+print "I earned", money, "dollars these past two weeks while I was in NY!" 
 
