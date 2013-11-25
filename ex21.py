@@ -50,3 +50,14 @@ print "That becomes: ", what, "Can you do it by hand?"
 #      in English it would be "I add a and b then retun them"
 #   Python adds two numbers. Then when the funciton ends any line that
 #      runs it will be able to assign this a = b result to a variable
+
+#Some more practice:
+
+def add(a, b):
+    print"I'm adding %d + %d now please wait..." % (a, b)
+    return a + b
+
+money = add(420, 118)
+
+print "I earned %d dollars these past two weeks while I was in NY!" (money) 
+
