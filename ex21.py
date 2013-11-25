@@ -61,3 +61,14 @@ money = add(420, 118)
 
 print "I earned", money, "dollars these past two weeks while I was in NY!" 
 
+
+# further practice with the extra credit
+why = multiply(2, divide(subtract(height, subtract(what, age)), weight))
+
+print "Now I should get", why, "as my result"
+
+#age = 35
+#subtract = -4391 - 35 = -4426
+#subtract = 74  - -4426 = 4500
+#divide = 4500 / 180 = 25
+#multiply = 2 * 25 = 50
